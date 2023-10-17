@@ -14,7 +14,7 @@ body
   justify-content: center;
   min-height: 100vh;
   padding: 0 10px;
-  background: gray;
+  background: #08031A;
 }
 
 .wrapper
@@ -22,7 +22,8 @@ body
   height: 270px;
   width: 420px;
   border-radius: 7px;
-  background: orange;
+  background: #A358FF;
+  background: #1687CB;
   padding: 30px 30px 35px;
   transition: height 0.2s ease;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
@@ -71,7 +72,7 @@ form img
 
 form .content i
 {
-  color: orange;
+  color: #00b4d8;
   font-size: 55px;
 }
 
@@ -148,7 +149,7 @@ textarea:hover::-webkit-scrollbar-thumb
   font-weight: 500;
   font-size: 16px;
   cursor: pointer;
-  color: orange;
+  color: black;
   border-radius: 5px;
   background: #fff;
   transition: transform 0.3s ease;
